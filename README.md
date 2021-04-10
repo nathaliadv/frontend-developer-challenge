@@ -1,6 +1,8 @@
 # frontend-developer-challenge
 Desafio para futuros desenvolvedores da Linx Impulse. 
 
+**Link do layout desenvolvido**: https://nathaliadv-dev-challenge.netlify.app/
+
 ## Sobre o desafio
 
 O desafio consistiu no desenvolvimento do *layout* de uma *landing page* com uma grade de produtos e um formulário de *newsletter*. O principal objetivo é transformar este *layout* em uma página funcional.
