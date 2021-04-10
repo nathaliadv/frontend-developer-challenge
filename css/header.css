@@ -1,7 +1,9 @@
 header {
-    background: #707070;
-    border: 1px solid #707070;
-    padding-top: 69px;
+    background: url('../header1.svg') no-repeat;
+}
+
+.header-container {
+    padding-top: 70px;
 }
 
 .header-titles {
@@ -53,9 +55,8 @@ nav {
 
 @media only screen and (max-width: 768px) {
  
-header {
-    padding-top: 66px;
-    
+.header-container {
+    padding-top: 70px;
 }
 
 .header-titles {
