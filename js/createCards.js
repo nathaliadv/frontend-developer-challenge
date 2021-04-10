@@ -26,6 +26,5 @@ export default function createCards(
     </div>
     `;
 
-    return card
+  return card;
 }
-
