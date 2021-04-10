@@ -195,7 +195,7 @@ label {
     padding-bottom: 85px;
 }
 
-.form1-container, .form2-container {
+.form-personal, .form-share {
     max-width: 500px;
     margin: auto;
 }
